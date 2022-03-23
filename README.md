@@ -6,3 +6,8 @@
 - 😄 Pronouns: (He/His/Him)
 - ⚡ Fun fact: I am left handed. Huge fan of Netflix, OTT and cricket. Also love reading books. These days I am onto biographies mostly. I also subscribe to tech blogs which also includes some blogs which are behind a paywall. 
 
+### GitHub Stats : 
+
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyydk&count_private=true&theme=onedark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyydk&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
