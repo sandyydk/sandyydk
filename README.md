@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about CI/CD practices and Software Development at scale. Cloud cost optimization is one more of my interests. Love working on multi-cloud technologies. 
 - 📫 How to reach me: You can reach me here : [Sandeep Bhat](https://www.linkedin.com/in/sandeephbhat/ "Sandeep's LinkedIn")
 - 😄 Pronouns: (He/His/Him)
-- ⚡ Fun fact: I am left handed. Huge fan of Netflix, OTT and cricket. Also love reading books. These days I am onto biographies mostly. I also subscribe to tech blogs which includes and is nt limited The Ken, TechCrunch, highscalability.com, newsletter.pragmaticengineer.com and many more.
+- ⚡ Fun fact: I am left handed. Huge fan of Netflix, OTT and cricket. Also love reading books. These days I am onto biographies mostly. I also subscribe to tech blogs which includes and is not limited to The Ken, TechCrunch, highscalability.com, newsletter.pragmaticengineer.com and many more.
 
 ### GitHub Stats : 
 
