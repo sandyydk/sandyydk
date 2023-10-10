@@ -6,6 +6,10 @@
 - 😄 Pronouns: (He/His/Him)
 - ⚡ Fun fact: I am left handed. Huge fan of Netflix, OTT and cricket. Also love reading books. These days I am onto biographies mostly. I also subscribe to tech blogs which includes and is not limited to The Ken, TechCrunch, highscalability.com, newsletter.pragmaticengineer.com and many more.
 
+### Badges Acquired :
+
+[![An image of @sandyydk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sandyydk)](https://holopin.io/@sandyydk)
+
 ### GitHub Stats : 
 
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyydk&count_private=true&theme=onedark&show_icons=true)
