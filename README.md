@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Cloud Cost Optimization at Harness. This involves a broad distributed architecture with several moving parts. tech language mostly happens to be Golang (Go). But I also work with Envoy, K8s, PostgreSQL, Redis, Queuing stack and a little bit of scripting occasionally. Work also involves lots of cloud technologies across cloud providers like AWS, GCP and Azure using features like EC2, S3, Lambda, ECS and many more. That's enough of my work for now. More to come.
+- 🔭 I’m currently working on AI & Cloud Cost Optimization at Harness. This involves a broad distributed architecture with several moving parts. tech language mostly happens to be Golang (Go) & Java along with some Python sprinkled in. But I also work with Envoy, K8s, PostgreSQL, Redis, Queuing stack and a little bit of scripting occasionally. Work also involves lots of cloud technologies across cloud providers like AWS, GCP and Azure using features like EC2, S3, Lambda, ECS and many more. That's enough of my work for now. More to come. We are also actively exploring different ways to optimize on AI cost for our customers.
 - 🌱 I’m currently learning more about CI/CD practices and Software Development at scale. Cloud cost optimization is one more of my interests. Love working on multi-cloud technologies. 
 - 📫 How to reach me: You can reach me here : [Sandeep Bhat](https://www.linkedin.com/in/sandeephbhat/ "Sandeep's LinkedIn")
 - 😄 Pronouns: (He/His/Him)
